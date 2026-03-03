@@ -12,17 +12,17 @@ Data Science student at Northeastern University (Khoury College of Computer Scie
 - Exported reusable analytics artifacts and visualization outputs
 - Stack: Python, Pandas, NumPy, scikit-learn, Matplotlib
 
-### 2) PetHub (CS3200)
+### 2) Tummi (Team Project)
+- Repo: [ShifanZhao/Tummi_Project](https://github.com/ShifanZhao/Tummi_Project)
+- Multi-persona food discovery platform developed in a 5-person CS3200 team
+- Contributed to database/application workflows and analytics-facing features
+- Stack: MySQL, Flask, Streamlit, Docker
+- 
+### 3) PetHub （Team Project)
 - Repo: [rayrayowo/pethub](https://github.com/rayrayowo/pethub)
 - Designed a relational workflow for pet care operations (appointments, health, medications, events, analytics)
 - Implemented Flask APIs and Streamlit pages backed by MySQL
 - Built Dockerized local development setup for app + API + DB
-- Stack: MySQL, Flask, Streamlit, Docker
-
-### 3) Tummi (Team Project)
-- Repo: [ShifanZhao/Tummi_Project](https://github.com/ShifanZhao/Tummi_Project)
-- Multi-persona food discovery platform developed in a 5-person CS3200 team
-- Contributed to database/application workflows and analytics-facing features
 - Stack: MySQL, Flask, Streamlit, Docker
 
 ### 4) NUVIEW Program (Data Workflow)
