@@ -17,8 +17,8 @@ Data Science student at Northeastern University (Khoury College of Computer Scie
 - Multi-persona food discovery platform developed in a 5-person CS3200 team
 - Contributed to database/application workflows and analytics-facing features
 - Stack: MySQL, Flask, Streamlit, Docker
-- 
-### 3) PetHub （Team Project)
+  
+### 3) PetHub (Team Project)
 - Repo: [rayrayowo/pethub](https://github.com/rayrayowo/pethub)
 - Designed a relational workflow for pet care operations (appointments, health, medications, events, analytics)
 - Implemented Flask APIs and Streamlit pages backed by MySQL
