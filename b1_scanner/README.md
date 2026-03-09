@@ -10,7 +10,7 @@
 ## 运行
 
 ```bash
-cd b1_scanner_v2.0
+cd b1_scanner
 pip install -r requirements.txt
 streamlit run app.py
 ```
